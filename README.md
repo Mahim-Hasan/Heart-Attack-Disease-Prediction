@@ -1,2 +1,2 @@
 # Heart-Attack-Disease-Prediction
-This is a research based project for predicting heart attack probability.
+This research based project is for predicting the probability of heart attack.
